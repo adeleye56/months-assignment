@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sec-one{
+    width: 30%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: auto;
+    background-color: rgb(117, 116, 116);
+    padding: 10px;
+    border-radius: 10px;
+}
+span{
+    font-size: 17px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    align-self: center;
+}
+input{
+    width: 45%;
+    height: 3vh;
+    align-items: center;
+    align-self: center;
+}
+button{
+    width: 25%;
+    height: 3vh;
+    align-items: center;
+    align-self: center;
+
+}
